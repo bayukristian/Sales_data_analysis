@@ -1,0 +1,1001 @@
+order_id,customer,produk,kategori,harga,qty,tanggal_transaksi
+1,Eka,Buku Cerita,Buku,50000,5,2025-08-15
+2,Fajar,Puzzle Anak,Mainan,60000,5,2025-08-22
+3,Indra,Buku Tulis,Buku,15000,4,2025-08-22
+4,Ani,Poster Edukasi,Edukasi,25000,1,2025-03-31
+5,Cici,Pulpen,ATK,8000,1,2025-07-16
+6,Gita,Flash Card,Edukasi,40000,5,2026-01-04
+7,Dedi,Balok Kayu,Mainan,75000,5,2025-09-23
+8,Gita,Penghapus,Alat Tulis,3000,5,2025-03-29
+9,Dedi,Crayon,ATK,30000,5,2025-06-02
+10,Cici,Penghapus,Alat Tulis,3000,1,2025-04-28
+11,Hani,Puzzle Anak,Mainan,60000,4,2025-02-12
+12,Joko,Crayon,ATK,30000,1,2025-12-24
+13,Budi,Crayon,ATK,30000,1,2025-08-05
+14,Hani,Pulpen,ATK,8000,3,2025-09-15
+15,Eka,Puzzle Anak,Mainan,60000,2,2025-07-09
+16,Budi,Puzzle Anak,Mainan,60000,5,2025-02-12
+17,Indra,Pensil,ATK,5000,3,2025-01-23
+18,Joko,Buku Tulis,Buku,15000,2,2025-06-02
+19,Hani,Buku Tulis,Buku,15000,3,2025-01-30
+20,Eka,Pensil,ATK,5000,5,2025-04-06
+21,Ani,Poster Edukasi,Edukasi,25000,4,2026-01-03
+22,Fajar,Flash Card,Edukasi,40000,2,2025-12-09
+23,Fajar,Poster Edukasi,Edukasi,25000,5,2025-12-30
+24,Budi,Pulpen,ATK,8000,2,2025-11-11
+25,Indra,Pensil,ATK,5000,2,2025-05-24
+26,Dedi,Puzzle Anak,Mainan,60000,2,2025-03-01
+27,Eka,Pensil,ATK,5000,3,2025-07-26
+28,Fajar,Flash Card,Edukasi,40000,1,2025-02-18
+29,Dedi,Puzzle Anak,Mainan,60000,1,2026-01-14
+30,Fajar,Poster Edukasi,Edukasi,25000,5,2025-08-27
+31,Dedi,Pulpen,ATK,8000,2,2025-03-20
+32,Dedi,Penghapus,Alat Tulis,3000,4,2025-05-09
+33,Joko,Poster Edukasi,Edukasi,25000,2,2025-09-26
+34,Cici,Flash Card,Edukasi,40000,4,2025-04-03
+35,Fajar,Buku Tulis,Buku,15000,4,2025-06-17
+36,Fajar,Pulpen,ATK,8000,5,2025-11-06
+37,Indra,Pensil,ATK,5000,1,2025-11-28
+38,Indra,Crayon,ATK,30000,3,2025-11-05
+39,Eka,Crayon,ATK,30000,4,2025-11-27
+40,Dedi,Buku Cerita,Buku,50000,2,2025-03-04
+41,Fajar,Buku Cerita,Buku,50000,2,2025-02-12
+42,Ani,Buku Cerita,Buku,50000,4,2025-09-16
+43,Eka,Puzzle Anak,Mainan,60000,5,2025-04-16
+44,Hani,Pensil,ATK,5000,2,2026-01-09
+45,Ani,Poster Edukasi,Edukasi,25000,1,2025-09-05
+46,Fajar,Balok Kayu,Mainan,75000,2,2025-04-16
+47,Indra,Crayon,ATK,30000,1,2025-03-21
+48,Hani,Buku Tulis,Buku,15000,1,2025-08-13
+49,Ani,Pensil,ATK,5000,3,2025-08-10
+50,Fajar,Penghapus,Alat Tulis,3000,3,2025-02-22
+51,Indra,Buku Tulis,Buku,15000,3,2025-10-06
+52,Fajar,Buku Tulis,Buku,15000,4,2025-11-12
+53,Hani,Balok Kayu,Mainan,75000,4,2025-04-07
+54,Hani,Crayon,ATK,30000,4,2025-08-16
+55,Eka,Buku Tulis,Buku,15000,1,2025-08-01
+56,Hani,Flash Card,Edukasi,40000,5,2026-01-07
+57,Cici,Pensil,ATK,5000,2,2025-12-29
+58,Indra,Poster Edukasi,Edukasi,25000,2,2025-09-14
+59,Cici,Flash Card,Edukasi,40000,5,2025-04-08
+60,Eka,Buku Cerita,Buku,50000,4,2025-12-04
+61,Indra,Pulpen,ATK,8000,5,2025-09-08
+62,Ani,Pulpen,ATK,8000,3,2025-05-07
+63,Budi,Poster Edukasi,Edukasi,25000,1,2025-04-30
+64,Eka,Buku Tulis,Buku,15000,1,2025-12-07
+65,Gita,Balok Kayu,Mainan,75000,3,2025-11-14
+66,Gita,Puzzle Anak,Mainan,60000,1,2025-03-24
+67,Cici,Flash Card,Edukasi,40000,1,2025-11-02
+68,Dedi,Pulpen,ATK,8000,5,2025-02-12
+69,Cici,Buku Cerita,Buku,50000,2,2025-02-09
+70,Budi,Poster Edukasi,Edukasi,25000,5,2025-07-22
+71,Dedi,Pulpen,ATK,8000,4,2025-07-11
+72,Budi,Penghapus,Alat Tulis,3000,2,2026-01-02
+73,Fajar,Pulpen,ATK,8000,4,2025-03-20
+74,Budi,Poster Edukasi,Edukasi,25000,5,2025-11-12
+75,Eka,Pensil,ATK,5000,3,2025-02-24
+76,Cici,Penghapus,Alat Tulis,3000,3,2025-06-07
+77,Ani,Balok Kayu,Mainan,75000,2,2025-05-27
+78,Budi,Penghapus,Alat Tulis,3000,4,2025-07-12
+79,Indra,Buku Tulis,Buku,15000,3,2025-01-24
+80,Hani,Pulpen,ATK,8000,4,2025-11-15
+81,Indra,Balok Kayu,Mainan,75000,2,2025-10-07
+82,Dedi,Pulpen,ATK,8000,2,2026-01-09
+83,Dedi,Flash Card,Edukasi,40000,2,2025-11-21
+84,Cici,Poster Edukasi,Edukasi,25000,4,2025-01-21
+85,Fajar,Flash Card,Edukasi,40000,4,2025-10-12
+86,Budi,Crayon,ATK,30000,2,2025-09-21
+87,Ani,Pulpen,ATK,8000,3,2025-07-14
+88,Hani,Pulpen,ATK,8000,2,2025-09-06
+89,Gita,Pulpen,ATK,8000,2,2025-07-03
+90,Eka,Poster Edukasi,Edukasi,25000,2,2025-06-21
+91,Ani,Crayon,ATK,30000,1,2025-02-26
+92,Ani,Buku Tulis,Buku,15000,5,2025-01-28
+93,Joko,Pulpen,ATK,8000,2,2025-09-06
+94,Ani,Pensil,ATK,5000,4,2026-01-04
+95,Cici,Flash Card,Edukasi,40000,3,2025-05-03
+96,Indra,Pensil,ATK,5000,3,2025-09-01
+97,Eka,Buku Tulis,Buku,15000,4,2025-12-24
+98,Eka,Crayon,ATK,30000,3,2025-06-16
+99,Joko,Balok Kayu,Mainan,75000,3,2025-02-09
+100,Eka,Pensil,ATK,5000,2,2025-10-30
+101,Eka,Penghapus,Alat Tulis,3000,4,2025-01-19
+102,Cici,Poster Edukasi,Edukasi,25000,1,2025-02-15
+103,Ani,Crayon,ATK,30000,1,2025-08-23
+104,Dedi,Poster Edukasi,Edukasi,25000,1,2025-09-09
+105,Indra,Balok Kayu,Mainan,75000,2,2025-12-26
+106,Ani,Penghapus,Alat Tulis,3000,5,2025-08-15
+107,Dedi,Buku Tulis,Buku,15000,3,2025-04-07
+108,Fajar,Flash Card,Edukasi,40000,2,2025-08-08
+109,Fajar,Flash Card,Edukasi,40000,3,2026-01-10
+110,Indra,Crayon,ATK,30000,2,2025-04-23
+111,Gita,Buku Tulis,Buku,15000,5,2025-10-03
+112,Cici,Flash Card,Edukasi,40000,2,2026-01-09
+113,Ani,Balok Kayu,Mainan,75000,2,2025-05-28
+114,Joko,Flash Card,Edukasi,40000,4,2025-11-21
+115,Dedi,Buku Tulis,Buku,15000,3,2025-11-07
+116,Gita,Buku Cerita,Buku,50000,5,2025-07-23
+117,Gita,Buku Tulis,Buku,15000,2,2025-12-02
+118,Eka,Buku Cerita,Buku,50000,4,2025-11-05
+119,Gita,Buku Tulis,Buku,15000,2,2025-11-28
+120,Eka,Balok Kayu,Mainan,75000,5,2025-06-03
+121,Gita,Pulpen,ATK,8000,1,2025-09-28
+122,Ani,Buku Cerita,Buku,50000,2,2025-09-11
+123,Eka,Puzzle Anak,Mainan,60000,1,2025-07-19
+124,Joko,Puzzle Anak,Mainan,60000,1,2025-12-28
+125,Ani,Pulpen,ATK,8000,3,2025-12-10
+126,Ani,Balok Kayu,Mainan,75000,4,2025-06-27
+127,Ani,Crayon,ATK,30000,5,2025-02-14
+128,Ani,Puzzle Anak,Mainan,60000,5,2025-03-30
+129,Hani,Buku Tulis,Buku,15000,5,2025-08-23
+130,Ani,Pensil,ATK,5000,4,2025-04-06
+131,Dedi,Crayon,ATK,30000,4,2025-03-13
+132,Fajar,Crayon,ATK,30000,2,2025-01-30
+133,Cici,Buku Tulis,Buku,15000,5,2025-12-15
+134,Indra,Balok Kayu,Mainan,75000,1,2025-07-04
+135,Hani,Buku Cerita,Buku,50000,4,2025-02-14
+136,Joko,Pulpen,ATK,8000,1,2025-06-30
+137,Cici,Flash Card,Edukasi,40000,1,2025-11-23
+138,Eka,Crayon,ATK,30000,1,2025-06-26
+139,Dedi,Crayon,ATK,30000,3,2025-10-17
+140,Dedi,Buku Cerita,Buku,50000,3,2025-08-12
+141,Eka,Balok Kayu,Mainan,75000,4,2025-05-08
+142,Gita,Penghapus,Alat Tulis,3000,5,2025-05-19
+143,Indra,Buku Cerita,Buku,50000,4,2025-02-28
+144,Dedi,Buku Tulis,Buku,15000,2,2025-05-28
+145,Indra,Pulpen,ATK,8000,4,2025-07-31
+146,Joko,Balok Kayu,Mainan,75000,1,2026-01-05
+147,Gita,Buku Cerita,Buku,50000,4,2025-12-22
+148,Budi,Balok Kayu,Mainan,75000,1,2025-10-13
+149,Joko,Pensil,ATK,5000,2,2025-11-20
+150,Dedi,Balok Kayu,Mainan,75000,2,2025-04-15
+151,Hani,Buku Cerita,Buku,50000,5,2025-03-09
+152,Fajar,Poster Edukasi,Edukasi,25000,4,2025-07-14
+153,Eka,Buku Cerita,Buku,50000,1,2025-12-07
+154,Joko,Pensil,ATK,5000,2,2025-05-27
+155,Hani,Balok Kayu,Mainan,75000,4,2025-07-16
+156,Cici,Crayon,ATK,30000,5,2025-09-14
+157,Joko,Pensil,ATK,5000,1,2025-05-29
+158,Fajar,Crayon,ATK,30000,4,2025-12-20
+159,Fajar,Pulpen,ATK,8000,2,2025-04-27
+160,Eka,Buku Tulis,Buku,15000,3,2025-02-02
+161,Eka,Buku Cerita,Buku,50000,3,2025-09-26
+162,Joko,Pensil,ATK,5000,2,2025-01-20
+163,Budi,Buku Tulis,Buku,15000,3,2025-11-04
+164,Dedi,Penghapus,Alat Tulis,3000,4,2025-12-21
+165,Dedi,Flash Card,Edukasi,40000,4,2025-10-17
+166,Gita,Penghapus,Alat Tulis,3000,1,2025-08-25
+167,Ani,Balok Kayu,Mainan,75000,5,2025-02-11
+168,Hani,Penghapus,Alat Tulis,3000,1,2025-01-29
+169,Ani,Flash Card,Edukasi,40000,4,2025-03-27
+170,Dedi,Balok Kayu,Mainan,75000,1,2025-10-05
+171,Eka,Crayon,ATK,30000,5,2025-08-03
+172,Dedi,Penghapus,Alat Tulis,3000,3,2025-11-07
+173,Ani,Buku Cerita,Buku,50000,1,2025-11-20
+174,Fajar,Puzzle Anak,Mainan,60000,2,2025-09-27
+175,Dedi,Flash Card,Edukasi,40000,2,2025-01-29
+176,Hani,Poster Edukasi,Edukasi,25000,3,2025-02-12
+177,Fajar,Crayon,ATK,30000,1,2026-01-09
+178,Gita,Balok Kayu,Mainan,75000,2,2025-07-18
+179,Budi,Buku Tulis,Buku,15000,5,2025-07-02
+180,Gita,Poster Edukasi,Edukasi,25000,3,2025-12-18
+181,Indra,Pulpen,ATK,8000,2,2025-11-02
+182,Joko,Crayon,ATK,30000,4,2026-01-14
+183,Fajar,Pensil,ATK,5000,4,2025-11-14
+184,Dedi,Poster Edukasi,Edukasi,25000,5,2025-04-26
+185,Budi,Penghapus,Alat Tulis,3000,2,2025-11-01
+186,Joko,Crayon,ATK,30000,5,2025-12-15
+187,Hani,Pulpen,ATK,8000,2,2025-11-04
+188,Gita,Poster Edukasi,Edukasi,25000,1,2025-06-26
+189,Cici,Balok Kayu,Mainan,75000,1,2026-01-15
+190,Joko,Flash Card,Edukasi,40000,5,2025-04-26
+191,Ani,Penghapus,Alat Tulis,3000,4,2025-10-07
+192,Dedi,Penghapus,Alat Tulis,3000,1,2025-07-31
+193,Eka,Poster Edukasi,Edukasi,25000,4,2025-02-28
+194,Ani,Crayon,ATK,30000,2,2025-03-04
+195,Gita,Pensil,ATK,5000,2,2025-12-06
+196,Dedi,Pulpen,ATK,8000,2,2025-12-13
+197,Indra,Crayon,ATK,30000,4,2025-12-25
+198,Budi,Flash Card,Edukasi,40000,3,2025-01-28
+199,Cici,Buku Cerita,Buku,50000,4,2025-08-16
+200,Fajar,Penghapus,Alat Tulis,3000,2,2025-12-29
+201,Budi,Balok Kayu,Mainan,75000,4,2025-08-07
+202,Eka,Penghapus,Alat Tulis,3000,3,2025-07-28
+203,Budi,Penghapus,Alat Tulis,3000,2,2025-09-14
+204,Eka,Pulpen,ATK,8000,5,2025-03-14
+205,Eka,Penghapus,Alat Tulis,3000,4,2025-03-02
+206,Indra,Pensil,ATK,5000,5,2025-10-04
+207,Gita,Pensil,ATK,5000,2,2025-08-28
+208,Ani,Penghapus,Alat Tulis,3000,1,2025-05-07
+209,Dedi,Buku Cerita,Buku,50000,4,2025-12-03
+210,Indra,Buku Cerita,Buku,50000,1,2025-07-18
+211,Indra,Buku Cerita,Buku,50000,4,2025-06-19
+212,Budi,Buku Tulis,Buku,15000,3,2025-08-14
+213,Fajar,Poster Edukasi,Edukasi,25000,5,2025-11-06
+214,Ani,Pulpen,ATK,8000,4,2025-07-13
+215,Eka,Buku Cerita,Buku,50000,2,2025-10-26
+216,Cici,Penghapus,Alat Tulis,3000,3,2025-02-21
+217,Gita,Pulpen,ATK,8000,3,2025-03-03
+218,Dedi,Balok Kayu,Mainan,75000,4,2025-11-09
+219,Joko,Buku Cerita,Buku,50000,5,2025-11-18
+220,Budi,Penghapus,Alat Tulis,3000,1,2025-04-10
+221,Hani,Pensil,ATK,5000,5,2026-01-09
+222,Joko,Penghapus,Alat Tulis,3000,1,2025-10-15
+223,Dedi,Flash Card,Edukasi,40000,1,2025-09-16
+224,Dedi,Pulpen,ATK,8000,4,2025-11-08
+225,Indra,Penghapus,Alat Tulis,3000,5,2025-05-06
+226,Eka,Pulpen,ATK,8000,3,2025-08-04
+227,Dedi,Puzzle Anak,Mainan,60000,5,2025-09-22
+228,Dedi,Pulpen,ATK,8000,2,2025-11-18
+229,Fajar,Penghapus,Alat Tulis,3000,1,2025-02-16
+230,Dedi,Poster Edukasi,Edukasi,25000,4,2025-01-22
+231,Budi,Poster Edukasi,Edukasi,25000,5,2025-04-03
+232,Indra,Flash Card,Edukasi,40000,5,2025-09-24
+233,Hani,Flash Card,Edukasi,40000,3,2025-10-09
+234,Hani,Pulpen,ATK,8000,3,2025-08-27
+235,Gita,Poster Edukasi,Edukasi,25000,2,2025-05-22
+236,Eka,Flash Card,Edukasi,40000,3,2025-08-10
+237,Fajar,Balok Kayu,Mainan,75000,2,2025-08-24
+238,Hani,Flash Card,Edukasi,40000,5,2025-10-31
+239,Ani,Buku Tulis,Buku,15000,5,2025-03-28
+240,Dedi,Crayon,ATK,30000,5,2025-05-17
+241,Gita,Buku Cerita,Buku,50000,1,2025-11-23
+242,Eka,Crayon,ATK,30000,2,2025-05-05
+243,Dedi,Puzzle Anak,Mainan,60000,5,2025-10-11
+244,Hani,Balok Kayu,Mainan,75000,4,2025-06-17
+245,Hani,Puzzle Anak,Mainan,60000,4,2025-10-01
+246,Eka,Poster Edukasi,Edukasi,25000,5,2025-11-24
+247,Joko,Buku Cerita,Buku,50000,3,2025-03-17
+248,Dedi,Penghapus,Alat Tulis,3000,2,2025-05-20
+249,Cici,Buku Tulis,Buku,15000,1,2025-04-30
+250,Eka,Buku Cerita,Buku,50000,1,2025-05-24
+251,Eka,Pulpen,ATK,8000,5,2025-09-05
+252,Hani,Flash Card,Edukasi,40000,5,2025-07-27
+253,Ani,Puzzle Anak,Mainan,60000,2,2025-12-16
+254,Dedi,Buku Cerita,Buku,50000,2,2025-10-09
+255,Gita,Balok Kayu,Mainan,75000,2,2025-09-23
+256,Budi,Penghapus,Alat Tulis,3000,5,2025-06-08
+257,Ani,Flash Card,Edukasi,40000,1,2026-01-05
+258,Ani,Puzzle Anak,Mainan,60000,4,2025-10-07
+259,Joko,Crayon,ATK,30000,1,2025-06-20
+260,Hani,Buku Tulis,Buku,15000,5,2025-07-14
+261,Budi,Buku Tulis,Buku,15000,5,2025-02-01
+262,Ani,Buku Cerita,Buku,50000,1,2025-06-20
+263,Indra,Buku Tulis,Buku,15000,1,2025-02-28
+264,Joko,Pulpen,ATK,8000,2,2025-07-15
+265,Ani,Buku Cerita,Buku,50000,1,2025-06-18
+266,Dedi,Crayon,ATK,30000,2,2025-04-12
+267,Hani,Balok Kayu,Mainan,75000,1,2026-01-12
+268,Dedi,Balok Kayu,Mainan,75000,5,2025-07-07
+269,Indra,Balok Kayu,Mainan,75000,2,2025-06-11
+270,Joko,Poster Edukasi,Edukasi,25000,5,2025-02-28
+271,Budi,Pulpen,ATK,8000,5,2025-07-19
+272,Indra,Crayon,ATK,30000,1,2025-11-25
+273,Indra,Pensil,ATK,5000,5,2025-03-08
+274,Joko,Penghapus,Alat Tulis,3000,3,2025-08-04
+275,Indra,Buku Tulis,Buku,15000,4,2025-05-17
+276,Hani,Crayon,ATK,30000,5,2025-06-01
+277,Cici,Pulpen,ATK,8000,2,2025-09-29
+278,Cici,Flash Card,Edukasi,40000,4,2025-04-13
+279,Dedi,Penghapus,Alat Tulis,3000,3,2025-07-09
+280,Fajar,Pensil,ATK,5000,3,2025-09-19
+281,Gita,Balok Kayu,Mainan,75000,2,2025-11-17
+282,Ani,Poster Edukasi,Edukasi,25000,5,2025-11-18
+283,Cici,Pulpen,ATK,8000,1,2025-09-26
+284,Dedi,Balok Kayu,Mainan,75000,3,2025-11-23
+285,Indra,Buku Tulis,Buku,15000,4,2025-12-14
+286,Fajar,Buku Cerita,Buku,50000,5,2026-01-03
+287,Fajar,Buku Cerita,Buku,50000,4,2025-12-18
+288,Indra,Buku Tulis,Buku,15000,2,2025-03-11
+289,Gita,Flash Card,Edukasi,40000,3,2025-06-15
+290,Eka,Buku Tulis,Buku,15000,1,2025-04-22
+291,Eka,Buku Cerita,Buku,50000,1,2025-12-04
+292,Gita,Pensil,ATK,5000,3,2025-12-15
+293,Budi,Crayon,ATK,30000,2,2025-07-04
+294,Hani,Balok Kayu,Mainan,75000,3,2025-03-16
+295,Budi,Crayon,ATK,30000,5,2025-11-04
+296,Indra,Flash Card,Edukasi,40000,4,2025-09-08
+297,Hani,Pulpen,ATK,8000,4,2025-06-13
+298,Cici,Puzzle Anak,Mainan,60000,2,2025-11-10
+299,Joko,Pulpen,ATK,8000,2,2025-12-28
+300,Ani,Penghapus,Alat Tulis,3000,5,2025-01-18
+301,Joko,Penghapus,Alat Tulis,3000,4,2025-03-12
+302,Gita,Pensil,ATK,5000,2,2025-10-31
+303,Budi,Balok Kayu,Mainan,75000,3,2025-12-02
+304,Eka,Crayon,ATK,30000,4,2025-04-24
+305,Joko,Flash Card,Edukasi,40000,2,2025-08-02
+306,Ani,Buku Tulis,Buku,15000,3,2025-09-23
+307,Budi,Pensil,ATK,5000,3,2025-12-02
+308,Hani,Crayon,ATK,30000,4,2025-04-19
+309,Gita,Penghapus,Alat Tulis,3000,3,2025-12-03
+310,Gita,Buku Tulis,Buku,15000,4,2025-02-11
+311,Budi,Pensil,ATK,5000,1,2025-12-23
+312,Fajar,Balok Kayu,Mainan,75000,3,2025-06-17
+313,Indra,Balok Kayu,Mainan,75000,2,2025-06-01
+314,Gita,Buku Cerita,Buku,50000,3,2025-04-12
+315,Gita,Crayon,ATK,30000,4,2025-04-23
+316,Joko,Buku Cerita,Buku,50000,4,2025-09-27
+317,Cici,Buku Tulis,Buku,15000,3,2025-03-20
+318,Cici,Flash Card,Edukasi,40000,4,2025-09-29
+319,Ani,Balok Kayu,Mainan,75000,4,2025-04-06
+320,Fajar,Buku Tulis,Buku,15000,2,2025-08-24
+321,Fajar,Poster Edukasi,Edukasi,25000,1,2025-12-27
+322,Eka,Buku Tulis,Buku,15000,2,2025-10-16
+323,Budi,Buku Cerita,Buku,50000,1,2025-05-30
+324,Dedi,Buku Tulis,Buku,15000,4,2025-01-26
+325,Ani,Penghapus,Alat Tulis,3000,3,2025-02-03
+326,Cici,Pensil,ATK,5000,3,2025-05-11
+327,Eka,Poster Edukasi,Edukasi,25000,4,2025-03-18
+328,Cici,Poster Edukasi,Edukasi,25000,3,2025-12-08
+329,Cici,Buku Cerita,Buku,50000,2,2025-11-07
+330,Eka,Buku Tulis,Buku,15000,2,2025-12-16
+331,Ani,Pulpen,ATK,8000,2,2025-05-27
+332,Cici,Balok Kayu,Mainan,75000,1,2025-05-31
+333,Indra,Crayon,ATK,30000,4,2025-12-11
+334,Hani,Puzzle Anak,Mainan,60000,3,2025-08-29
+335,Gita,Pulpen,ATK,8000,1,2025-09-26
+336,Joko,Flash Card,Edukasi,40000,1,2025-06-18
+337,Hani,Pensil,ATK,5000,2,2025-02-09
+338,Joko,Pulpen,ATK,8000,1,2025-09-09
+339,Dedi,Poster Edukasi,Edukasi,25000,5,2025-11-16
+340,Cici,Buku Cerita,Buku,50000,4,2025-07-17
+341,Ani,Buku Tulis,Buku,15000,2,2025-09-05
+342,Ani,Crayon,ATK,30000,1,2025-08-24
+343,Eka,Puzzle Anak,Mainan,60000,1,2025-10-11
+344,Ani,Poster Edukasi,Edukasi,25000,4,2025-04-25
+345,Cici,Pulpen,ATK,8000,2,2025-10-26
+346,Cici,Puzzle Anak,Mainan,60000,2,2025-02-15
+347,Budi,Buku Cerita,Buku,50000,2,2025-08-29
+348,Budi,Crayon,ATK,30000,1,2025-05-19
+349,Eka,Buku Tulis,Buku,15000,4,2025-12-10
+350,Eka,Poster Edukasi,Edukasi,25000,2,2025-10-27
+351,Indra,Crayon,ATK,30000,5,2026-01-08
+352,Eka,Balok Kayu,Mainan,75000,3,2025-05-19
+353,Fajar,Pensil,ATK,5000,1,2025-06-06
+354,Fajar,Poster Edukasi,Edukasi,25000,3,2025-02-13
+355,Gita,Flash Card,Edukasi,40000,5,2025-04-13
+356,Fajar,Puzzle Anak,Mainan,60000,5,2025-10-05
+357,Joko,Pulpen,ATK,8000,1,2025-06-15
+358,Hani,Buku Cerita,Buku,50000,3,2025-10-12
+359,Indra,Crayon,ATK,30000,3,2025-09-21
+360,Cici,Buku Tulis,Buku,15000,5,2025-07-09
+361,Fajar,Buku Tulis,Buku,15000,4,2025-02-16
+362,Gita,Puzzle Anak,Mainan,60000,5,2025-03-26
+363,Joko,Flash Card,Edukasi,40000,5,2025-09-07
+364,Joko,Buku Cerita,Buku,50000,2,2025-05-16
+365,Joko,Crayon,ATK,30000,2,2026-01-09
+366,Cici,Pulpen,ATK,8000,1,2025-08-19
+367,Cici,Crayon,ATK,30000,3,2025-10-06
+368,Dedi,Pensil,ATK,5000,2,2025-10-21
+369,Hani,Crayon,ATK,30000,4,2025-05-23
+370,Budi,Pulpen,ATK,8000,2,2025-06-18
+371,Indra,Poster Edukasi,Edukasi,25000,3,2025-05-09
+372,Budi,Balok Kayu,Mainan,75000,5,2025-04-14
+373,Cici,Balok Kayu,Mainan,75000,3,2025-04-11
+374,Dedi,Pensil,ATK,5000,3,2025-07-17
+375,Joko,Crayon,ATK,30000,4,2025-11-01
+376,Dedi,Crayon,ATK,30000,2,2025-09-11
+377,Gita,Pensil,ATK,5000,3,2025-05-12
+378,Ani,Pensil,ATK,5000,5,2025-07-19
+379,Joko,Pulpen,ATK,8000,3,2025-04-01
+380,Eka,Buku Tulis,Buku,15000,5,2025-04-15
+381,Eka,Puzzle Anak,Mainan,60000,4,2025-04-18
+382,Hani,Penghapus,Alat Tulis,3000,2,2025-03-03
+383,Joko,Puzzle Anak,Mainan,60000,4,2025-05-16
+384,Fajar,Penghapus,Alat Tulis,3000,2,2025-04-06
+385,Indra,Buku Tulis,Buku,15000,5,2025-11-11
+386,Hani,Buku Cerita,Buku,50000,2,2025-06-20
+387,Ani,Crayon,ATK,30000,1,2025-12-04
+388,Indra,Poster Edukasi,Edukasi,25000,1,2026-01-04
+389,Gita,Buku Tulis,Buku,15000,4,2025-07-22
+390,Eka,Buku Tulis,Buku,15000,5,2025-05-13
+391,Indra,Pensil,ATK,5000,5,2025-11-09
+392,Joko,Balok Kayu,Mainan,75000,4,2025-03-03
+393,Ani,Poster Edukasi,Edukasi,25000,4,2025-09-24
+394,Dedi,Flash Card,Edukasi,40000,4,2025-11-30
+395,Hani,Balok Kayu,Mainan,75000,3,2025-05-09
+396,Gita,Crayon,ATK,30000,2,2025-10-13
+397,Dedi,Balok Kayu,Mainan,75000,3,2025-02-10
+398,Gita,Buku Tulis,Buku,15000,5,2025-08-24
+399,Budi,Crayon,ATK,30000,2,2026-01-12
+400,Joko,Penghapus,Alat Tulis,3000,2,2025-12-29
+401,Gita,Penghapus,Alat Tulis,3000,2,2025-05-26
+402,Gita,Flash Card,Edukasi,40000,5,2025-08-03
+403,Budi,Buku Tulis,Buku,15000,5,2025-06-03
+404,Budi,Pensil,ATK,5000,1,2025-10-23
+405,Indra,Poster Edukasi,Edukasi,25000,3,2025-12-24
+406,Joko,Flash Card,Edukasi,40000,3,2025-11-27
+407,Dedi,Pensil,ATK,5000,2,2025-02-21
+408,Dedi,Puzzle Anak,Mainan,60000,1,2025-06-07
+409,Gita,Poster Edukasi,Edukasi,25000,3,2025-07-10
+410,Joko,Flash Card,Edukasi,40000,1,2025-02-02
+411,Budi,Crayon,ATK,30000,2,2025-07-09
+412,Budi,Buku Tulis,Buku,15000,3,2025-04-16
+413,Joko,Buku Cerita,Buku,50000,2,2025-07-21
+414,Joko,Buku Cerita,Buku,50000,5,2025-03-07
+415,Gita,Flash Card,Edukasi,40000,3,2025-10-24
+416,Dedi,Pensil,ATK,5000,5,2025-04-12
+417,Indra,Puzzle Anak,Mainan,60000,2,2025-11-17
+418,Fajar,Crayon,ATK,30000,3,2025-05-21
+419,Dedi,Crayon,ATK,30000,4,2025-03-29
+420,Cici,Pulpen,ATK,8000,5,2026-01-06
+421,Budi,Poster Edukasi,Edukasi,25000,1,2025-02-03
+422,Hani,Pensil,ATK,5000,5,2025-03-20
+423,Gita,Balok Kayu,Mainan,75000,5,2025-11-15
+424,Eka,Pensil,ATK,5000,5,2025-09-11
+425,Budi,Puzzle Anak,Mainan,60000,5,2025-02-24
+426,Fajar,Flash Card,Edukasi,40000,5,2026-01-02
+427,Fajar,Poster Edukasi,Edukasi,25000,1,2025-03-24
+428,Joko,Crayon,ATK,30000,3,2025-11-28
+429,Fajar,Balok Kayu,Mainan,75000,5,2025-05-15
+430,Indra,Crayon,ATK,30000,1,2026-01-06
+431,Fajar,Puzzle Anak,Mainan,60000,2,2025-03-01
+432,Gita,Buku Cerita,Buku,50000,4,2025-07-23
+433,Dedi,Pensil,ATK,5000,5,2025-07-27
+434,Eka,Poster Edukasi,Edukasi,25000,5,2025-08-17
+435,Gita,Crayon,ATK,30000,5,2025-05-10
+436,Indra,Penghapus,Alat Tulis,3000,3,2025-12-04
+437,Indra,Puzzle Anak,Mainan,60000,3,2025-01-18
+438,Cici,Pulpen,ATK,8000,2,2025-10-04
+439,Dedi,Puzzle Anak,Mainan,60000,4,2025-11-28
+440,Cici,Flash Card,Edukasi,40000,4,2025-12-17
+441,Fajar,Flash Card,Edukasi,40000,2,2025-11-03
+442,Eka,Pulpen,ATK,8000,2,2025-07-03
+443,Hani,Flash Card,Edukasi,40000,2,2025-10-08
+444,Fajar,Poster Edukasi,Edukasi,25000,2,2025-12-15
+445,Indra,Crayon,ATK,30000,3,2025-05-13
+446,Dedi,Flash Card,Edukasi,40000,5,2025-01-19
+447,Ani,Crayon,ATK,30000,2,2025-03-10
+448,Ani,Poster Edukasi,Edukasi,25000,1,2025-10-05
+449,Dedi,Crayon,ATK,30000,2,2025-04-14
+450,Joko,Penghapus,Alat Tulis,3000,5,2025-06-22
+451,Joko,Penghapus,Alat Tulis,3000,2,2025-02-20
+452,Gita,Flash Card,Edukasi,40000,4,2025-10-11
+453,Gita,Balok Kayu,Mainan,75000,1,2025-02-18
+454,Hani,Buku Cerita,Buku,50000,2,2025-09-22
+455,Budi,Puzzle Anak,Mainan,60000,1,2025-07-26
+456,Fajar,Poster Edukasi,Edukasi,25000,3,2025-07-26
+457,Ani,Poster Edukasi,Edukasi,25000,2,2025-04-02
+458,Fajar,Puzzle Anak,Mainan,60000,2,2025-09-20
+459,Cici,Poster Edukasi,Edukasi,25000,4,2025-03-13
+460,Gita,Pensil,ATK,5000,3,2025-12-29
+461,Budi,Balok Kayu,Mainan,75000,2,2025-12-03
+462,Ani,Buku Cerita,Buku,50000,2,2025-11-20
+463,Joko,Pulpen,ATK,8000,5,2025-12-23
+464,Cici,Crayon,ATK,30000,2,2025-08-01
+465,Hani,Penghapus,Alat Tulis,3000,3,2025-04-18
+466,Eka,Balok Kayu,Mainan,75000,4,2025-12-09
+467,Joko,Puzzle Anak,Mainan,60000,5,2025-07-07
+468,Hani,Penghapus,Alat Tulis,3000,2,2025-04-14
+469,Eka,Balok Kayu,Mainan,75000,2,2025-06-21
+470,Gita,Penghapus,Alat Tulis,3000,3,2025-10-09
+471,Indra,Pulpen,ATK,8000,4,2025-12-12
+472,Joko,Buku Tulis,Buku,15000,4,2025-01-29
+473,Dedi,Puzzle Anak,Mainan,60000,2,2025-03-05
+474,Ani,Poster Edukasi,Edukasi,25000,4,2025-06-20
+475,Cici,Pulpen,ATK,8000,4,2025-09-09
+476,Joko,Flash Card,Edukasi,40000,1,2025-02-05
+477,Dedi,Puzzle Anak,Mainan,60000,2,2025-08-07
+478,Gita,Puzzle Anak,Mainan,60000,5,2025-08-09
+479,Hani,Pulpen,ATK,8000,2,2025-06-01
+480,Ani,Balok Kayu,Mainan,75000,4,2025-05-24
+481,Gita,Pulpen,ATK,8000,2,2025-02-28
+482,Indra,Buku Tulis,Buku,15000,1,2025-04-08
+483,Ani,Pensil,ATK,5000,2,2025-12-12
+484,Ani,Buku Cerita,Buku,50000,3,2025-11-11
+485,Indra,Flash Card,Edukasi,40000,2,2025-11-24
+486,Hani,Buku Tulis,Buku,15000,1,2026-01-02
+487,Joko,Buku Cerita,Buku,50000,5,2025-02-14
+488,Budi,Pensil,ATK,5000,2,2025-10-21
+489,Eka,Puzzle Anak,Mainan,60000,4,2025-11-22
+490,Dedi,Puzzle Anak,Mainan,60000,2,2025-06-30
+491,Budi,Flash Card,Edukasi,40000,5,2025-05-15
+492,Cici,Pensil,ATK,5000,2,2026-01-01
+493,Dedi,Poster Edukasi,Edukasi,25000,3,2025-07-24
+494,Fajar,Poster Edukasi,Edukasi,25000,5,2025-11-10
+495,Eka,Buku Cerita,Buku,50000,2,2025-06-11
+496,Hani,Crayon,ATK,30000,2,2025-11-22
+497,Ani,Poster Edukasi,Edukasi,25000,1,2025-07-03
+498,Dedi,Buku Cerita,Buku,50000,5,2025-02-04
+499,Joko,Puzzle Anak,Mainan,60000,2,2025-04-22
+500,Eka,Poster Edukasi,Edukasi,25000,4,2026-01-06
+501,Budi,Pensil,ATK,5000,2,2025-03-17
+502,Ani,Puzzle Anak,Mainan,60000,2,2025-05-22
+503,Indra,Buku Cerita,Buku,50000,3,2025-08-10
+504,Dedi,Crayon,ATK,30000,5,2025-12-03
+505,Budi,Puzzle Anak,Mainan,60000,1,2025-04-07
+506,Dedi,Penghapus,Alat Tulis,3000,5,2025-10-06
+507,Joko,Penghapus,Alat Tulis,3000,5,2025-02-06
+508,Fajar,Pensil,ATK,5000,2,2025-02-06
+509,Hani,Penghapus,Alat Tulis,3000,3,2025-05-14
+510,Joko,Balok Kayu,Mainan,75000,4,2025-01-18
+511,Cici,Balok Kayu,Mainan,75000,3,2025-05-13
+512,Ani,Flash Card,Edukasi,40000,4,2025-08-17
+513,Dedi,Poster Edukasi,Edukasi,25000,2,2025-12-18
+514,Hani,Poster Edukasi,Edukasi,25000,2,2025-06-29
+515,Eka,Puzzle Anak,Mainan,60000,5,2025-08-12
+516,Eka,Puzzle Anak,Mainan,60000,3,2026-01-16
+517,Fajar,Flash Card,Edukasi,40000,5,2025-09-04
+518,Eka,Penghapus,Alat Tulis,3000,4,2025-08-13
+519,Cici,Buku Tulis,Buku,15000,4,2025-04-03
+520,Fajar,Puzzle Anak,Mainan,60000,5,2026-01-15
+521,Joko,Buku Tulis,Buku,15000,1,2025-05-19
+522,Dedi,Poster Edukasi,Edukasi,25000,1,2025-10-02
+523,Joko,Pensil,ATK,5000,5,2025-11-05
+524,Cici,Pulpen,ATK,8000,3,2025-12-28
+525,Dedi,Flash Card,Edukasi,40000,4,2025-11-29
+526,Ani,Flash Card,Edukasi,40000,5,2025-12-20
+527,Dedi,Pensil,ATK,5000,2,2025-05-03
+528,Fajar,Flash Card,Edukasi,40000,2,2025-12-11
+529,Ani,Buku Tulis,Buku,15000,5,2025-10-15
+530,Fajar,Flash Card,Edukasi,40000,2,2025-08-30
+531,Gita,Buku Tulis,Buku,15000,5,2025-03-02
+532,Dedi,Poster Edukasi,Edukasi,25000,2,2025-03-01
+533,Gita,Pulpen,ATK,8000,4,2025-12-05
+534,Eka,Pulpen,ATK,8000,3,2025-04-04
+535,Joko,Buku Cerita,Buku,50000,2,2026-01-05
+536,Gita,Poster Edukasi,Edukasi,25000,4,2025-04-18
+537,Indra,Penghapus,Alat Tulis,3000,4,2025-09-30
+538,Joko,Buku Tulis,Buku,15000,5,2025-11-23
+539,Fajar,Balok Kayu,Mainan,75000,4,2025-12-18
+540,Indra,Crayon,ATK,30000,5,2025-02-12
+541,Hani,Pensil,ATK,5000,3,2025-07-27
+542,Ani,Poster Edukasi,Edukasi,25000,1,2025-07-03
+543,Indra,Flash Card,Edukasi,40000,2,2025-06-08
+544,Gita,Pulpen,ATK,8000,1,2025-06-18
+545,Eka,Buku Tulis,Buku,15000,4,2025-04-30
+546,Ani,Pulpen,ATK,8000,3,2025-09-04
+547,Joko,Puzzle Anak,Mainan,60000,2,2025-10-22
+548,Hani,Puzzle Anak,Mainan,60000,1,2025-08-16
+549,Eka,Penghapus,Alat Tulis,3000,2,2025-04-18
+550,Dedi,Buku Tulis,Buku,15000,4,2025-11-05
+551,Cici,Buku Cerita,Buku,50000,3,2025-05-11
+552,Ani,Pulpen,ATK,8000,3,2026-01-18
+553,Ani,Poster Edukasi,Edukasi,25000,4,2025-05-17
+554,Budi,Puzzle Anak,Mainan,60000,2,2025-12-09
+555,Fajar,Buku Cerita,Buku,50000,1,2025-06-03
+556,Ani,Puzzle Anak,Mainan,60000,1,2025-04-25
+557,Hani,Crayon,ATK,30000,5,2025-03-24
+558,Dedi,Puzzle Anak,Mainan,60000,4,2025-08-04
+559,Indra,Crayon,ATK,30000,3,2025-06-17
+560,Hani,Buku Cerita,Buku,50000,1,2025-02-27
+561,Hani,Flash Card,Edukasi,40000,3,2025-11-20
+562,Eka,Buku Tulis,Buku,15000,5,2025-10-16
+563,Dedi,Pensil,ATK,5000,4,2025-08-16
+564,Fajar,Poster Edukasi,Edukasi,25000,5,2026-01-15
+565,Cici,Poster Edukasi,Edukasi,25000,5,2025-03-11
+566,Joko,Crayon,ATK,30000,4,2025-09-14
+567,Cici,Flash Card,Edukasi,40000,5,2025-02-13
+568,Budi,Puzzle Anak,Mainan,60000,5,2025-10-05
+569,Indra,Balok Kayu,Mainan,75000,1,2026-01-02
+570,Budi,Penghapus,Alat Tulis,3000,5,2025-10-01
+571,Dedi,Pulpen,ATK,8000,5,2025-09-26
+572,Budi,Puzzle Anak,Mainan,60000,3,2025-12-13
+573,Hani,Pensil,ATK,5000,5,2025-11-10
+574,Eka,Penghapus,Alat Tulis,3000,5,2025-02-20
+575,Fajar,Buku Tulis,Buku,15000,4,2025-09-21
+576,Indra,Buku Tulis,Buku,15000,4,2025-04-24
+577,Joko,Pensil,ATK,5000,1,2025-07-26
+578,Cici,Puzzle Anak,Mainan,60000,3,2025-02-19
+579,Cici,Penghapus,Alat Tulis,3000,4,2026-01-03
+580,Ani,Pensil,ATK,5000,1,2025-11-29
+581,Fajar,Pulpen,ATK,8000,2,2025-10-13
+582,Cici,Pulpen,ATK,8000,3,2025-02-02
+583,Hani,Flash Card,Edukasi,40000,1,2025-08-05
+584,Dedi,Poster Edukasi,Edukasi,25000,4,2025-12-04
+585,Indra,Puzzle Anak,Mainan,60000,2,2026-01-15
+586,Budi,Crayon,ATK,30000,1,2025-03-08
+587,Gita,Buku Tulis,Buku,15000,4,2025-05-27
+588,Cici,Pensil,ATK,5000,1,2025-03-06
+589,Hani,Pensil,ATK,5000,1,2025-12-07
+590,Budi,Balok Kayu,Mainan,75000,3,2025-11-15
+591,Ani,Buku Tulis,Buku,15000,3,2025-11-22
+592,Indra,Pulpen,ATK,8000,4,2025-11-13
+593,Gita,Buku Cerita,Buku,50000,4,2025-06-17
+594,Ani,Pensil,ATK,5000,2,2025-08-12
+595,Indra,Buku Cerita,Buku,50000,4,2025-07-30
+596,Fajar,Buku Tulis,Buku,15000,5,2025-06-16
+597,Gita,Pensil,ATK,5000,4,2025-05-17
+598,Gita,Balok Kayu,Mainan,75000,4,2025-06-29
+599,Fajar,Poster Edukasi,Edukasi,25000,3,2025-11-27
+600,Dedi,Crayon,ATK,30000,1,2025-12-07
+601,Hani,Poster Edukasi,Edukasi,25000,5,2025-11-15
+602,Dedi,Balok Kayu,Mainan,75000,2,2025-11-29
+603,Cici,Balok Kayu,Mainan,75000,5,2025-06-12
+604,Dedi,Poster Edukasi,Edukasi,25000,1,2026-01-12
+605,Dedi,Flash Card,Edukasi,40000,4,2025-10-14
+606,Indra,Buku Cerita,Buku,50000,1,2025-01-22
+607,Gita,Pulpen,ATK,8000,4,2025-04-04
+608,Eka,Crayon,ATK,30000,4,2025-01-21
+609,Cici,Penghapus,Alat Tulis,3000,3,2025-11-25
+610,Hani,Flash Card,Edukasi,40000,2,2025-03-15
+611,Cici,Balok Kayu,Mainan,75000,3,2025-09-22
+612,Eka,Flash Card,Edukasi,40000,5,2025-08-26
+613,Indra,Penghapus,Alat Tulis,3000,2,2025-04-03
+614,Dedi,Pensil,ATK,5000,2,2025-11-15
+615,Ani,Flash Card,Edukasi,40000,4,2025-02-28
+616,Hani,Penghapus,Alat Tulis,3000,1,2025-01-24
+617,Cici,Pulpen,ATK,8000,2,2025-05-14
+618,Dedi,Buku Cerita,Buku,50000,2,2025-04-08
+619,Dedi,Poster Edukasi,Edukasi,25000,2,2025-05-23
+620,Eka,Buku Tulis,Buku,15000,5,2026-01-14
+621,Cici,Pulpen,ATK,8000,5,2025-07-25
+622,Gita,Balok Kayu,Mainan,75000,2,2025-12-18
+623,Eka,Pensil,ATK,5000,2,2025-07-14
+624,Joko,Puzzle Anak,Mainan,60000,3,2025-04-12
+625,Gita,Flash Card,Edukasi,40000,3,2025-11-22
+626,Ani,Pulpen,ATK,8000,5,2025-05-10
+627,Eka,Crayon,ATK,30000,1,2025-04-10
+628,Hani,Buku Cerita,Buku,50000,4,2025-07-14
+629,Indra,Poster Edukasi,Edukasi,25000,2,2025-03-21
+630,Cici,Flash Card,Edukasi,40000,1,2025-04-22
+631,Hani,Poster Edukasi,Edukasi,25000,4,2025-07-04
+632,Dedi,Crayon,ATK,30000,2,2025-04-12
+633,Joko,Buku Cerita,Buku,50000,4,2025-04-07
+634,Joko,Buku Cerita,Buku,50000,4,2025-08-18
+635,Hani,Flash Card,Edukasi,40000,1,2025-08-16
+636,Dedi,Crayon,ATK,30000,1,2025-05-22
+637,Hani,Crayon,ATK,30000,5,2025-08-08
+638,Joko,Balok Kayu,Mainan,75000,5,2026-01-09
+639,Joko,Penghapus,Alat Tulis,3000,2,2025-05-25
+640,Joko,Pulpen,ATK,8000,4,2025-06-12
+641,Indra,Buku Tulis,Buku,15000,4,2025-08-14
+642,Indra,Pensil,ATK,5000,1,2025-03-29
+643,Budi,Penghapus,Alat Tulis,3000,5,2025-05-31
+644,Joko,Flash Card,Edukasi,40000,5,2025-12-19
+645,Fajar,Penghapus,Alat Tulis,3000,1,2025-09-19
+646,Ani,Crayon,ATK,30000,2,2025-11-13
+647,Fajar,Puzzle Anak,Mainan,60000,4,2025-08-18
+648,Ani,Buku Cerita,Buku,50000,5,2025-03-21
+649,Fajar,Pensil,ATK,5000,4,2025-04-12
+650,Hani,Buku Cerita,Buku,50000,2,2025-04-15
+651,Hani,Pensil,ATK,5000,3,2025-04-03
+652,Eka,Buku Tulis,Buku,15000,5,2025-04-21
+653,Hani,Poster Edukasi,Edukasi,25000,3,2025-04-11
+654,Eka,Balok Kayu,Mainan,75000,2,2025-08-03
+655,Gita,Poster Edukasi,Edukasi,25000,3,2025-03-07
+656,Indra,Crayon,ATK,30000,1,2025-01-30
+657,Eka,Pulpen,ATK,8000,4,2025-02-20
+658,Hani,Crayon,ATK,30000,4,2025-08-29
+659,Eka,Pulpen,ATK,8000,2,2025-06-03
+660,Cici,Flash Card,Edukasi,40000,3,2025-12-13
+661,Cici,Pensil,ATK,5000,1,2025-09-15
+662,Gita,Penghapus,Alat Tulis,3000,1,2025-07-19
+663,Budi,Pensil,ATK,5000,5,2025-11-25
+664,Eka,Pulpen,ATK,8000,4,2025-09-18
+665,Dedi,Flash Card,Edukasi,40000,2,2025-08-09
+666,Budi,Balok Kayu,Mainan,75000,2,2025-04-29
+667,Ani,Poster Edukasi,Edukasi,25000,3,2025-09-19
+668,Fajar,Buku Tulis,Buku,15000,4,2025-08-13
+669,Fajar,Buku Cerita,Buku,50000,5,2025-04-24
+670,Budi,Buku Cerita,Buku,50000,3,2025-01-26
+671,Joko,Penghapus,Alat Tulis,3000,3,2025-07-06
+672,Indra,Pulpen,ATK,8000,4,2025-12-09
+673,Budi,Buku Tulis,Buku,15000,4,2025-07-10
+674,Gita,Crayon,ATK,30000,3,2025-08-17
+675,Fajar,Pensil,ATK,5000,1,2025-03-05
+676,Fajar,Buku Tulis,Buku,15000,2,2025-05-15
+677,Cici,Pulpen,ATK,8000,4,2025-07-03
+678,Fajar,Penghapus,Alat Tulis,3000,2,2025-01-21
+679,Indra,Poster Edukasi,Edukasi,25000,3,2025-10-25
+680,Dedi,Puzzle Anak,Mainan,60000,5,2025-06-30
+681,Eka,Puzzle Anak,Mainan,60000,2,2025-04-05
+682,Hani,Puzzle Anak,Mainan,60000,3,2025-04-07
+683,Budi,Pensil,ATK,5000,4,2025-11-26
+684,Joko,Buku Cerita,Buku,50000,5,2025-03-12
+685,Ani,Buku Cerita,Buku,50000,1,2026-01-10
+686,Cici,Penghapus,Alat Tulis,3000,2,2025-04-08
+687,Joko,Buku Tulis,Buku,15000,5,2025-03-15
+688,Joko,Pensil,ATK,5000,5,2025-08-20
+689,Indra,Penghapus,Alat Tulis,3000,1,2025-04-07
+690,Hani,Buku Cerita,Buku,50000,1,2025-08-31
+691,Joko,Flash Card,Edukasi,40000,4,2025-11-10
+692,Cici,Pulpen,ATK,8000,5,2025-10-07
+693,Joko,Poster Edukasi,Edukasi,25000,3,2025-06-27
+694,Gita,Poster Edukasi,Edukasi,25000,2,2025-01-18
+695,Dedi,Buku Cerita,Buku,50000,2,2025-06-17
+696,Joko,Buku Tulis,Buku,15000,4,2025-03-03
+697,Budi,Crayon,ATK,30000,4,2025-12-18
+698,Ani,Pulpen,ATK,8000,2,2025-06-12
+699,Ani,Flash Card,Edukasi,40000,3,2025-09-02
+700,Ani,Puzzle Anak,Mainan,60000,4,2025-06-01
+701,Joko,Buku Tulis,Buku,15000,1,2025-06-30
+702,Hani,Puzzle Anak,Mainan,60000,5,2025-03-18
+703,Eka,Buku Cerita,Buku,50000,2,2025-05-05
+704,Ani,Penghapus,Alat Tulis,3000,3,2025-10-23
+705,Budi,Buku Tulis,Buku,15000,5,2025-01-27
+706,Fajar,Pensil,ATK,5000,3,2025-07-15
+707,Joko,Pensil,ATK,5000,2,2025-04-19
+708,Dedi,Pulpen,ATK,8000,4,2025-12-19
+709,Gita,Flash Card,Edukasi,40000,3,2025-03-10
+710,Hani,Flash Card,Edukasi,40000,4,2025-04-28
+711,Ani,Balok Kayu,Mainan,75000,5,2025-11-30
+712,Gita,Penghapus,Alat Tulis,3000,4,2025-11-29
+713,Hani,Pensil,ATK,5000,2,2026-01-03
+714,Cici,Buku Cerita,Buku,50000,5,2025-09-25
+715,Hani,Poster Edukasi,Edukasi,25000,3,2025-08-27
+716,Ani,Buku Tulis,Buku,15000,2,2025-07-12
+717,Gita,Balok Kayu,Mainan,75000,3,2025-08-21
+718,Eka,Pensil,ATK,5000,2,2025-04-29
+719,Gita,Balok Kayu,Mainan,75000,4,2025-08-26
+720,Gita,Buku Tulis,Buku,15000,4,2025-06-16
+721,Indra,Buku Cerita,Buku,50000,5,2025-07-22
+722,Dedi,Poster Edukasi,Edukasi,25000,2,2025-06-13
+723,Dedi,Flash Card,Edukasi,40000,2,2025-12-15
+724,Joko,Puzzle Anak,Mainan,60000,3,2025-08-22
+725,Ani,Pensil,ATK,5000,4,2025-09-27
+726,Indra,Buku Tulis,Buku,15000,4,2025-01-21
+727,Ani,Puzzle Anak,Mainan,60000,4,2025-07-08
+728,Budi,Balok Kayu,Mainan,75000,4,2025-07-08
+729,Fajar,Penghapus,Alat Tulis,3000,5,2025-03-26
+730,Fajar,Crayon,ATK,30000,2,2025-02-01
+731,Joko,Crayon,ATK,30000,4,2025-09-12
+732,Fajar,Pulpen,ATK,8000,2,2026-01-11
+733,Ani,Crayon,ATK,30000,4,2025-08-07
+734,Ani,Penghapus,Alat Tulis,3000,1,2025-11-12
+735,Ani,Buku Tulis,Buku,15000,3,2025-09-07
+736,Dedi,Balok Kayu,Mainan,75000,3,2025-07-30
+737,Cici,Pulpen,ATK,8000,2,2025-02-09
+738,Indra,Buku Cerita,Buku,50000,4,2025-02-27
+739,Hani,Balok Kayu,Mainan,75000,2,2025-04-20
+740,Eka,Flash Card,Edukasi,40000,5,2025-02-04
+741,Budi,Pulpen,ATK,8000,3,2025-08-29
+742,Gita,Crayon,ATK,30000,4,2025-03-19
+743,Ani,Pulpen,ATK,8000,4,2025-02-01
+744,Hani,Penghapus,Alat Tulis,3000,4,2025-03-13
+745,Fajar,Pulpen,ATK,8000,5,2025-11-20
+746,Ani,Pensil,ATK,5000,4,2025-05-10
+747,Joko,Pulpen,ATK,8000,5,2025-06-30
+748,Cici,Buku Tulis,Buku,15000,2,2026-01-02
+749,Gita,Pensil,ATK,5000,2,2025-05-13
+750,Budi,Buku Cerita,Buku,50000,1,2025-11-23
+751,Gita,Puzzle Anak,Mainan,60000,1,2025-05-31
+752,Budi,Balok Kayu,Mainan,75000,2,2025-03-11
+753,Eka,Crayon,ATK,30000,5,2025-12-26
+754,Ani,Buku Cerita,Buku,50000,4,2025-05-12
+755,Cici,Puzzle Anak,Mainan,60000,5,2025-04-02
+756,Fajar,Pensil,ATK,5000,2,2025-05-29
+757,Eka,Pulpen,ATK,8000,5,2025-10-30
+758,Dedi,Buku Cerita,Buku,50000,1,2025-12-26
+759,Gita,Flash Card,Edukasi,40000,1,2025-10-29
+760,Budi,Crayon,ATK,30000,1,2025-03-14
+761,Ani,Flash Card,Edukasi,40000,2,2025-03-29
+762,Ani,Buku Cerita,Buku,50000,1,2025-05-01
+763,Fajar,Crayon,ATK,30000,4,2025-08-27
+764,Hani,Buku Cerita,Buku,50000,2,2025-03-27
+765,Dedi,Pulpen,ATK,8000,2,2025-09-30
+766,Indra,Buku Cerita,Buku,50000,4,2025-11-10
+767,Budi,Buku Cerita,Buku,50000,3,2026-01-09
+768,Budi,Buku Cerita,Buku,50000,5,2025-05-08
+769,Gita,Poster Edukasi,Edukasi,25000,2,2025-06-29
+770,Ani,Poster Edukasi,Edukasi,25000,4,2025-12-30
+771,Cici,Pensil,ATK,5000,4,2026-01-07
+772,Dedi,Crayon,ATK,30000,4,2025-05-01
+773,Cici,Buku Tulis,Buku,15000,2,2026-01-11
+774,Eka,Penghapus,Alat Tulis,3000,3,2026-01-13
+775,Gita,Pulpen,ATK,8000,3,2025-01-28
+776,Indra,Penghapus,Alat Tulis,3000,2,2025-07-18
+777,Budi,Buku Tulis,Buku,15000,1,2025-05-25
+778,Budi,Crayon,ATK,30000,2,2025-12-23
+779,Hani,Pulpen,ATK,8000,2,2025-10-30
+780,Hani,Pensil,ATK,5000,3,2025-11-22
+781,Eka,Crayon,ATK,30000,3,2025-06-22
+782,Ani,Penghapus,Alat Tulis,3000,3,2025-12-17
+783,Joko,Puzzle Anak,Mainan,60000,5,2025-09-15
+784,Cici,Balok Kayu,Mainan,75000,3,2025-02-18
+785,Budi,Puzzle Anak,Mainan,60000,4,2026-01-16
+786,Eka,Crayon,ATK,30000,2,2025-07-23
+787,Fajar,Poster Edukasi,Edukasi,25000,2,2025-12-21
+788,Indra,Poster Edukasi,Edukasi,25000,5,2025-06-17
+789,Cici,Pulpen,ATK,8000,2,2025-08-02
+790,Indra,Poster Edukasi,Edukasi,25000,5,2025-02-06
+791,Fajar,Balok Kayu,Mainan,75000,3,2025-02-05
+792,Dedi,Penghapus,Alat Tulis,3000,1,2025-10-25
+793,Gita,Pulpen,ATK,8000,3,2025-04-19
+794,Indra,Pulpen,ATK,8000,1,2025-10-05
+795,Indra,Flash Card,Edukasi,40000,2,2025-11-19
+796,Joko,Buku Cerita,Buku,50000,1,2025-09-25
+797,Indra,Balok Kayu,Mainan,75000,3,2025-06-05
+798,Budi,Penghapus,Alat Tulis,3000,5,2025-01-18
+799,Joko,Buku Cerita,Buku,50000,1,2025-09-18
+800,Joko,Penghapus,Alat Tulis,3000,1,2025-05-23
+801,Fajar,Buku Tulis,Buku,15000,1,2025-11-01
+802,Joko,Pensil,ATK,5000,2,2025-04-25
+803,Hani,Pulpen,ATK,8000,1,2025-01-31
+804,Gita,Flash Card,Edukasi,40000,2,2025-07-15
+805,Indra,Puzzle Anak,Mainan,60000,2,2025-05-06
+806,Hani,Pensil,ATK,5000,3,2025-05-08
+807,Joko,Puzzle Anak,Mainan,60000,3,2025-09-19
+808,Gita,Penghapus,Alat Tulis,3000,5,2025-04-05
+809,Joko,Pulpen,ATK,8000,2,2026-01-04
+810,Budi,Buku Cerita,Buku,50000,5,2025-11-18
+811,Eka,Penghapus,Alat Tulis,3000,4,2025-03-13
+812,Budi,Buku Cerita,Buku,50000,5,2025-09-08
+813,Joko,Buku Cerita,Buku,50000,2,2025-08-25
+814,Ani,Poster Edukasi,Edukasi,25000,1,2025-07-05
+815,Indra,Pensil,ATK,5000,3,2025-06-14
+816,Ani,Balok Kayu,Mainan,75000,4,2025-06-28
+817,Dedi,Flash Card,Edukasi,40000,4,2025-12-27
+818,Cici,Penghapus,Alat Tulis,3000,1,2025-03-10
+819,Cici,Crayon,ATK,30000,1,2025-12-18
+820,Fajar,Pulpen,ATK,8000,4,2025-07-15
+821,Eka,Poster Edukasi,Edukasi,25000,1,2025-01-21
+822,Indra,Buku Tulis,Buku,15000,4,2025-10-15
+823,Gita,Pensil,ATK,5000,1,2025-05-19
+824,Cici,Puzzle Anak,Mainan,60000,1,2025-02-11
+825,Dedi,Balok Kayu,Mainan,75000,2,2026-01-17
+826,Gita,Penghapus,Alat Tulis,3000,1,2025-05-24
+827,Indra,Penghapus,Alat Tulis,3000,5,2025-11-17
+828,Eka,Pulpen,ATK,8000,2,2026-01-16
+829,Indra,Buku Cerita,Buku,50000,1,2025-11-19
+830,Dedi,Poster Edukasi,Edukasi,25000,4,2025-06-11
+831,Ani,Balok Kayu,Mainan,75000,2,2025-04-07
+832,Eka,Puzzle Anak,Mainan,60000,2,2025-03-03
+833,Fajar,Pulpen,ATK,8000,1,2025-11-06
+834,Hani,Pensil,ATK,5000,4,2025-11-03
+835,Indra,Crayon,ATK,30000,2,2025-06-06
+836,Fajar,Pulpen,ATK,8000,1,2025-11-08
+837,Eka,Poster Edukasi,Edukasi,25000,1,2025-04-02
+838,Cici,Flash Card,Edukasi,40000,1,2025-01-31
+839,Indra,Pulpen,ATK,8000,2,2025-03-07
+840,Eka,Flash Card,Edukasi,40000,4,2025-09-16
+841,Hani,Flash Card,Edukasi,40000,5,2025-08-20
+842,Hani,Buku Cerita,Buku,50000,3,2025-03-13
+843,Joko,Buku Cerita,Buku,50000,3,2025-04-04
+844,Eka,Buku Cerita,Buku,50000,3,2025-05-16
+845,Gita,Poster Edukasi,Edukasi,25000,4,2025-09-16
+846,Indra,Penghapus,Alat Tulis,3000,1,2025-02-05
+847,Eka,Crayon,ATK,30000,3,2025-07-09
+848,Fajar,Poster Edukasi,Edukasi,25000,3,2025-05-12
+849,Dedi,Flash Card,Edukasi,40000,1,2025-11-16
+850,Gita,Puzzle Anak,Mainan,60000,5,2025-10-10
+851,Joko,Buku Tulis,Buku,15000,4,2025-05-21
+852,Joko,Poster Edukasi,Edukasi,25000,3,2025-03-23
+853,Joko,Crayon,ATK,30000,4,2025-06-04
+854,Budi,Buku Tulis,Buku,15000,2,2025-06-29
+855,Ani,Buku Cerita,Buku,50000,1,2026-01-05
+856,Joko,Penghapus,Alat Tulis,3000,1,2025-06-06
+857,Fajar,Flash Card,Edukasi,40000,5,2025-11-08
+858,Gita,Puzzle Anak,Mainan,60000,5,2025-05-29
+859,Ani,Poster Edukasi,Edukasi,25000,1,2025-10-24
+860,Joko,Poster Edukasi,Edukasi,25000,5,2025-09-29
+861,Gita,Crayon,ATK,30000,3,2025-08-26
+862,Indra,Buku Cerita,Buku,50000,3,2025-01-24
+863,Joko,Buku Tulis,Buku,15000,1,2025-02-21
+864,Indra,Balok Kayu,Mainan,75000,4,2025-11-12
+865,Cici,Pensil,ATK,5000,1,2025-12-02
+866,Gita,Pulpen,ATK,8000,5,2025-02-02
+867,Gita,Buku Tulis,Buku,15000,5,2025-05-06
+868,Cici,Flash Card,Edukasi,40000,4,2025-02-08
+869,Gita,Crayon,ATK,30000,1,2025-07-16
+870,Cici,Pensil,ATK,5000,4,2025-06-24
+871,Cici,Pensil,ATK,5000,1,2025-09-06
+872,Joko,Penghapus,Alat Tulis,3000,2,2025-12-07
+873,Joko,Buku Cerita,Buku,50000,5,2025-11-29
+874,Dedi,Buku Cerita,Buku,50000,5,2025-06-17
+875,Eka,Puzzle Anak,Mainan,60000,4,2025-10-12
+876,Dedi,Buku Cerita,Buku,50000,1,2025-12-22
+877,Fajar,Puzzle Anak,Mainan,60000,1,2025-01-18
+878,Gita,Flash Card,Edukasi,40000,5,2025-10-04
+879,Indra,Crayon,ATK,30000,2,2025-12-18
+880,Joko,Penghapus,Alat Tulis,3000,4,2025-08-05
+881,Indra,Flash Card,Edukasi,40000,2,2025-01-30
+882,Cici,Poster Edukasi,Edukasi,25000,3,2025-04-25
+883,Budi,Poster Edukasi,Edukasi,25000,2,2025-04-29
+884,Eka,Balok Kayu,Mainan,75000,3,2025-02-24
+885,Cici,Penghapus,Alat Tulis,3000,5,2025-03-27
+886,Dedi,Buku Tulis,Buku,15000,1,2025-03-05
+887,Ani,Pulpen,ATK,8000,1,2025-11-06
+888,Hani,Crayon,ATK,30000,3,2025-08-15
+889,Indra,Buku Tulis,Buku,15000,1,2025-12-12
+890,Budi,Pulpen,ATK,8000,2,2025-05-16
+891,Ani,Pensil,ATK,5000,2,2025-09-11
+892,Dedi,Pensil,ATK,5000,4,2025-03-09
+893,Budi,Poster Edukasi,Edukasi,25000,1,2025-12-08
+894,Ani,Pulpen,ATK,8000,5,2025-05-11
+895,Indra,Pensil,ATK,5000,4,2025-03-07
+896,Eka,Buku Cerita,Buku,50000,3,2025-10-19
+897,Fajar,Pulpen,ATK,8000,5,2026-01-18
+898,Fajar,Penghapus,Alat Tulis,3000,1,2025-01-30
+899,Gita,Buku Cerita,Buku,50000,4,2025-09-20
+900,Fajar,Puzzle Anak,Mainan,60000,3,2025-01-21
+901,Fajar,Crayon,ATK,30000,2,2025-09-12
+902,Cici,Crayon,ATK,30000,1,2025-10-18
+903,Eka,Buku Cerita,Buku,50000,5,2025-03-10
+904,Cici,Pulpen,ATK,8000,3,2025-10-12
+905,Fajar,Crayon,ATK,30000,5,2025-11-20
+906,Hani,Penghapus,Alat Tulis,3000,5,2026-01-11
+907,Eka,Buku Cerita,Buku,50000,1,2025-10-24
+908,Cici,Pulpen,ATK,8000,2,2025-06-14
+909,Budi,Buku Cerita,Buku,50000,4,2025-06-16
+910,Budi,Flash Card,Edukasi,40000,3,2025-06-02
+911,Eka,Pensil,ATK,5000,5,2025-06-18
+912,Fajar,Puzzle Anak,Mainan,60000,5,2025-12-04
+913,Joko,Buku Tulis,Buku,15000,4,2025-09-30
+914,Joko,Flash Card,Edukasi,40000,4,2025-02-04
+915,Cici,Puzzle Anak,Mainan,60000,4,2025-05-29
+916,Cici,Pulpen,ATK,8000,3,2025-08-11
+917,Gita,Buku Tulis,Buku,15000,5,2025-08-12
+918,Indra,Crayon,ATK,30000,4,2025-12-27
+919,Cici,Pensil,ATK,5000,3,2025-05-28
+920,Joko,Penghapus,Alat Tulis,3000,1,2025-10-29
+921,Dedi,Crayon,ATK,30000,4,2025-08-02
+922,Indra,Penghapus,Alat Tulis,3000,3,2025-07-31
+923,Budi,Buku Cerita,Buku,50000,3,2025-10-13
+924,Eka,Poster Edukasi,Edukasi,25000,5,2026-01-11
+925,Ani,Balok Kayu,Mainan,75000,2,2025-08-07
+926,Ani,Poster Edukasi,Edukasi,25000,2,2025-08-22
+927,Indra,Poster Edukasi,Edukasi,25000,4,2025-05-16
+928,Hani,Flash Card,Edukasi,40000,4,2026-01-18
+929,Fajar,Pulpen,ATK,8000,2,2025-07-05
+930,Budi,Pensil,ATK,5000,4,2026-01-04
+931,Cici,Balok Kayu,Mainan,75000,1,2025-05-08
+932,Dedi,Buku Cerita,Buku,50000,3,2025-12-29
+933,Joko,Buku Tulis,Buku,15000,2,2025-07-05
+934,Dedi,Puzzle Anak,Mainan,60000,3,2025-06-13
+935,Ani,Puzzle Anak,Mainan,60000,4,2025-10-19
+936,Joko,Poster Edukasi,Edukasi,25000,4,2025-03-14
+937,Budi,Puzzle Anak,Mainan,60000,4,2025-02-15
+938,Budi,Pensil,ATK,5000,4,2025-02-18
+939,Fajar,Buku Cerita,Buku,50000,1,2025-07-05
+940,Budi,Penghapus,Alat Tulis,3000,4,2025-12-09
+941,Eka,Buku Cerita,Buku,50000,2,2025-06-10
+942,Fajar,Buku Cerita,Buku,50000,3,2025-11-05
+943,Fajar,Buku Cerita,Buku,50000,1,2025-08-06
+944,Dedi,Pulpen,ATK,8000,4,2025-09-23
+945,Gita,Poster Edukasi,Edukasi,25000,1,2025-12-03
+946,Fajar,Penghapus,Alat Tulis,3000,1,2025-11-14
+947,Budi,Balok Kayu,Mainan,75000,4,2025-06-15
+948,Joko,Pulpen,ATK,8000,3,2025-05-10
+949,Cici,Poster Edukasi,Edukasi,25000,3,2025-07-11
+950,Cici,Puzzle Anak,Mainan,60000,1,2025-02-07
+951,Ani,Balok Kayu,Mainan,75000,3,2025-08-09
+952,Hani,Buku Tulis,Buku,15000,2,2025-11-01
+953,Budi,Pulpen,ATK,8000,5,2025-04-16
+954,Indra,Balok Kayu,Mainan,75000,3,2025-10-09
+955,Cici,Buku Cerita,Buku,50000,2,2025-11-10
+956,Joko,Flash Card,Edukasi,40000,3,2025-06-19
+957,Gita,Crayon,ATK,30000,3,2025-06-23
+958,Ani,Buku Cerita,Buku,50000,2,2026-01-07
+959,Fajar,Flash Card,Edukasi,40000,5,2025-11-11
+960,Dedi,Flash Card,Edukasi,40000,1,2025-02-27
+961,Joko,Penghapus,Alat Tulis,3000,4,2025-10-16
+962,Indra,Pulpen,ATK,8000,3,2025-09-09
+963,Hani,Puzzle Anak,Mainan,60000,2,2025-09-01
+964,Joko,Balok Kayu,Mainan,75000,1,2025-02-26
+965,Hani,Flash Card,Edukasi,40000,4,2025-04-23
+966,Indra,Buku Cerita,Buku,50000,5,2025-11-16
+967,Eka,Flash Card,Edukasi,40000,1,2025-02-23
+968,Cici,Pensil,ATK,5000,1,2025-04-17
+969,Ani,Flash Card,Edukasi,40000,5,2025-06-05
+970,Budi,Penghapus,Alat Tulis,3000,5,2025-12-10
+971,Gita,Puzzle Anak,Mainan,60000,2,2025-04-19
+972,Indra,Poster Edukasi,Edukasi,25000,4,2025-09-28
+973,Budi,Balok Kayu,Mainan,75000,4,2025-10-21
+974,Indra,Crayon,ATK,30000,1,2025-11-19
+975,Joko,Poster Edukasi,Edukasi,25000,2,2025-09-25
+976,Dedi,Crayon,ATK,30000,2,2025-12-28
+977,Cici,Balok Kayu,Mainan,75000,2,2025-11-22
+978,Indra,Pulpen,ATK,8000,1,2025-07-27
+979,Fajar,Buku Tulis,Buku,15000,5,2025-12-02
+980,Ani,Buku Tulis,Buku,15000,5,2026-01-17
+981,Joko,Buku Tulis,Buku,15000,2,2025-09-02
+982,Indra,Pulpen,ATK,8000,5,2025-05-07
+983,Cici,Crayon,ATK,30000,1,2025-03-22
+984,Dedi,Puzzle Anak,Mainan,60000,5,2025-12-10
+985,Fajar,Pulpen,ATK,8000,1,2026-01-05
+986,Ani,Pulpen,ATK,8000,5,2025-10-13
+987,Indra,Buku Tulis,Buku,15000,1,2025-12-26
+988,Cici,Pensil,ATK,5000,3,2025-11-28
+989,Indra,Pulpen,ATK,8000,3,2025-04-22
+990,Dedi,Flash Card,Edukasi,40000,4,2025-05-18
+991,Indra,Pensil,ATK,5000,2,2025-05-06
+992,Joko,Poster Edukasi,Edukasi,25000,1,2025-06-03
+993,Budi,Puzzle Anak,Mainan,60000,1,2025-11-25
+994,Joko,Poster Edukasi,Edukasi,25000,1,2025-01-22
+995,Fajar,Balok Kayu,Mainan,75000,4,2025-10-02
+996,Indra,Pulpen,ATK,8000,2,2025-09-10
+997,Joko,Buku Cerita,Buku,50000,3,2025-05-25
+998,Ani,Balok Kayu,Mainan,75000,1,2025-10-03
+999,Dedi,Crayon,ATK,30000,4,2025-09-14
+1000,Budi,Pulpen,ATK,8000,4,2025-02-21
